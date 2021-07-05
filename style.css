@@ -35,8 +35,33 @@ h1{
     background-image: url(images/Frame58.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    margin-bottom: 100px;
     
 }
 #about_img{
     width:70%;
+}
+.receipe_head{
+    margin-bottom: 50px;
+}
+.receipe_head h2 {
+    text-align: center;
+}
+.receipe_head p{
+    text-align: center;
+}
+.receipe_bottom{
+    display: flex;
+}
+.receipe_content{
+    width:28%;
+    padding:10px;
+    margin-left: 30px;
+    border: 10px solid #fff;
+    border-radius:20px;
+    box-shadow: 10px 10px 10px 10px gray;
+}
+.receipe_content img{
+    width:100%;
+    border-radius: 20px;
 }
