@@ -1,0 +1,42 @@
+body{
+    font-family: 'Russo One', sans-serif;
+    font-family: 'Tinos', serif;
+    margin:0px;
+}
+h1{
+    font-size: 50px;
+}
+.special_color{
+    color:orange;
+}
+.head_wrapper{
+    display:flex;
+}
+.half_width{
+    width:50%;
+    margin-left: 20px;
+    padding:100px;
+}
+.half_width p{
+    margin-bottom: 40px;
+}
+.half_width img{
+    width:80%;
+}
+.link_button{
+    text-decoration: none;
+    padding:10px 40px;
+    border-radius: 15px;
+    color: #fff;
+    background-image: linear-gradient(rgb(255, 72, 0), orange);
+}
+.about_wrapper{
+    display: flex;
+    background-image: url(images/Frame58.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#about_img{
+    width:70%;
+}
