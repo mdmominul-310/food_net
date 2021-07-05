@@ -41,6 +41,9 @@ h1{
 #about_img{
     width:70%;
 }
+.receipe_wrapper{
+    margin-bottom: 100px;
+}
 .receipe_head{
     margin-bottom: 50px;
 }
@@ -64,4 +67,14 @@ h1{
 .receipe_content img{
     width:100%;
     border-radius: 20px;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.555);
+    padding:60px;
+}
+footer h2{
+    text-align: center;
+}
+footer p{
+    text-align: center;
 }
