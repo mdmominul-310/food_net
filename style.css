@@ -42,7 +42,7 @@ h1{
     width:70%;
 }
 .receipe_wrapper{
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 .receipe_head{
     margin-bottom: 50px;
@@ -68,6 +68,30 @@ h1{
     width:100%;
     border-radius: 20px;
 }
+.our_food_wrap{
+    display: flex;
+    margin-bottom: 200px;
+}
+.img_control img{
+    width:100%;
+    border-radius: 0px 100px 100px 0px;
+}
+.width_half{
+    width:50%;
+}
+.content_section{
+    margin-left: 200px;
+    padding: 50px;
+}
+.content_section h1{
+    border-bottom: 5px solid orangered;
+}
+.content_section li{
+    color:rgb(0, 140, 255);
+    text-shadow: 5px 5px 5px rgba(0, 255, 255, 0.336);
+}
+
+
 footer{
     background-color: rgba(0, 0, 0, 0.555);
     padding:60px;
