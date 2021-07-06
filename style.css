@@ -102,3 +102,19 @@ footer h2{
 footer p{
     text-align: center;
 }
+.social-meadia{
+    margin-bottom: 200px;
+    padding: 20px;
+}
+.social_main{
+    display: flex;
+    box-shadow: 10px 10px 10px 10px gray;
+    padding:20px;
+}
+.social{
+    width:30%;
+    margin-left: 200px;;
+}
+.social h1 {
+    margin: 0;
+}
